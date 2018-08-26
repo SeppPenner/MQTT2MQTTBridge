@@ -14,9 +14,9 @@ client_target.username_pw_set("YourUsernameTarget", "YourPasswordTarget")
 
 def on_message(client, userdata, message):
 	"Evaluated when a new message is received on a subscribed topic"
-	print("Received message '" + str(message.payload) + "' on topic '"
+	print("Received message '" + str(message.payload)[2:][:-1] + "' on topic '"
 		+ message.topic + "' with QoS " + str(message.qos))
-	client_target.publish(message.topic,message.payload, message.qos, retain=False)
+	client_target.publish(message.topic, str(message.payload)[2:][:-1], message.qos, retain=False)
 
 def setup():
 	"Runs the setup procedure for the client"
