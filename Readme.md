@@ -1,12 +1,13 @@
 # MQTT2MQTTBridge
 
-MQTT2MQTTBridge is a project to connect a locally running broker to a central MQTT broker. The project was written and tested in Python 3.7.1.
+MQTT2MQTTBridge is a project to connect a locally running broker to a central MQTT broker. The project was written and tested in Python 3.7.3.
 
 [![Build status](https://ci.appveyor.com/api/projects/status/9xah1r44qg4fqhe6?svg=true)](https://ci.appveyor.com/project/SeppPenner/mqtt2mqttbridge)
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/MQTT2MQTTBridge.svg)](https://github.com/SeppPenner/MQTT2MQTTBridge/issues)
 [![GitHub forks](https://img.shields.io/github/forks/SeppPenner/MQTT2MQTTBridge.svg)](https://github.com/SeppPenner/MQTT2MQTTBridge/network)
 [![GitHub stars](https://img.shields.io/github/stars/SeppPenner/MQTT2MQTTBridge.svg)](https://github.com/SeppPenner/MQTT2MQTTBridge/stargazers)
 [![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://raw.githubusercontent.com/SeppPenner/MQTT2MQTTBridge/master/License.txt)
+[![Known Vulnerabilities](https://snyk.io/test/github/SeppPenner/MQTT2MQTTBridge/badge.svg)](https://snyk.io/test/github/SeppPenner/MQTT2MQTTBridge) 
 
 ## Adjust your settings:
 
@@ -60,7 +61,7 @@ python3 bridge.py
 python3 bridgeFiltering.py
 ```
 
-## Installing the latest version of Python (Currently 3.7.0) on the Raspberry Pi:
+## Installing the latest version of Python (Currently 3.7.3) on the Raspberry Pi:
 
 https://gist.github.com/SeppPenner/6a5a30ebc8f79936fa136c524417761d
 
