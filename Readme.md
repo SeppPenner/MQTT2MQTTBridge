@@ -6,7 +6,7 @@ MQTT2MQTTBridge is a project to connect a locally running broker to a central MQ
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/MQTT2MQTTBridge.svg)](https://github.com/SeppPenner/MQTT2MQTTBridge/issues)
 [![GitHub forks](https://img.shields.io/github/forks/SeppPenner/MQTT2MQTTBridge.svg)](https://github.com/SeppPenner/MQTT2MQTTBridge/network)
 [![GitHub stars](https://img.shields.io/github/stars/SeppPenner/MQTT2MQTTBridge.svg)](https://github.com/SeppPenner/MQTT2MQTTBridge/stargazers)
-[![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://raw.githubusercontent.com/SeppPenner/MQTT2MQTTBridge/master/License.txt)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://raw.githubusercontent.com/SeppPenner/MQTT2MQTTBridge/master/License.txt)
 [![Known Vulnerabilities](https://snyk.io/test/github/SeppPenner/MQTT2MQTTBridge/badge.svg)](https://snyk.io/test/github/SeppPenner/MQTT2MQTTBridge) 
 
 ## Adjust your settings:
