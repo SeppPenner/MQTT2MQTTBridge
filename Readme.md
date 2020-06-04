@@ -80,5 +80,4 @@ https://gist.github.com/SeppPenner/6a5a30ebc8f79936fa136c524417761d
 Change history
 --------------
 
-* **Version 1.0.0.1 (2019-09-29)** : Updated python version, updated requirements.
-* **Version 1.0.0.0 (?)** : 1.0 release.
+See the [Changelog](https://github.com/SeppPenner/MQTT2MQTTBridge/blob/master/Changelog.md).
