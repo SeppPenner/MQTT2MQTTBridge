@@ -1,6 +1,6 @@
 # MQTT2MQTTBridge
 
-MQTT2MQTTBridge is a project to connect a locally running broker to a central MQTT broker. The project was written and tested in Python 3.7.4.
+MQTT2MQTTBridge is a project to connect a locally running broker to a central MQTT broker. The project was written and tested in Python 3.
 
 [![Build status](https://ci.appveyor.com/api/projects/status/9xah1r44qg4fqhe6?svg=true)](https://ci.appveyor.com/project/SeppPenner/mqtt2mqttbridge)
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/MQTT2MQTTBridge.svg)](https://github.com/SeppPenner/MQTT2MQTTBridge/issues)
