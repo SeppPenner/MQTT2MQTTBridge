@@ -6,8 +6,8 @@ broker_source_port = 1883
 broker_target = "YourBroker"
 broker_target_port = 1883
 
-client_source = mqtt.Client("YourClientIdSource")
-client_target = mqtt.Client("YourClientIdTarget")
+client_source = mqtt.Client(mqtt.CallbackAPIVersion.VERSION2, "YourClientIdSource")
+client_target = mqtt.Client(mqtt.CallbackAPIVersion.VERSION2, "YourClientIdTarget")
 
 client_source.username_pw_set("YourUsernameSource", "YourPasswordSource")
 client_target.username_pw_set("YourUsernameTarget", "YourPasswordTarget")
